@@ -4,7 +4,7 @@
 
 This project was completed as part of the "Data Bases" B.Sc. course in the Industrial Engineering & Management Department at Ben-Gurion University.
 
-It focuses on business analysis of data from Pair Eyewear, a website that sells customizable glasses and sunglasses. The main process represented is the purchase of various types of eyewear and accessories.
+It focuses on business analysis of data from [Pair Eyewear]([url](https://paireyewear.com/)), a website that sells customizable glasses and sunglasses. The main process represented is the purchase of various types of eyewear and accessories.
 
 The work included:
 - Designing a **custom relational database schema**
